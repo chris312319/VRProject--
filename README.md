@@ -3,6 +3,9 @@ VRProject-馬偕合作紙牌遊戲
 :::warning
 訓練活動 - 數字紙牌遊戲(比大小)
 :::
+:::warning
+本專案需要搭配收集數據的儀器才能正常遊玩，可觀看Demo影片-https://drive.google.com/drive/folders/1IhjYmtPd46zSvSJJYBRANhGP3fzomxqL?usp=sharing
+:::
 # 地點: 幼兒園教室
 - 三張桌子，每張桌子配置四張椅子
 - 中間桌子有3個NPC在玩紙牌遊戲，左右兩張桌子沒有坐NPC
